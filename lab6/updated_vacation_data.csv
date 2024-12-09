@@ -1,0 +1,1001 @@
+salary,city,age,vacation_prefer,transport_prefer,target
+310053,Minsk,29,Cruise,Submarine,Istanbul
+246246,Minsk,37,Luxury,Tram,Istanbul
+437473,Astana,28,Nature,Helicopter,Rome
+400632,Almaty,42,Cruise,Motorcycle,Rome
+270511,Baku,65,Cruise,Submarine,Dubai
+141706,Yerevan,56,Cultural,Helicopter,Buenos Aires
+329673,Minsk,68,Nature,Bicycle,Venice
+132709,Yerevan,65,Nature,Submarine,Venice
+183190,Minsk,50,Camping,Bicycle,Kyoto
+407276,Tashkent,35,Camping,Helicopter,Venice
+145615,Almaty,25,Nature,Helicopter,Kyoto
+137762,Minsk,42,Cultural,Submarine,Rome
+95793,Almaty,43,Camping,Bicycle,Cape Town
+380463,Yerevan,65,Nature,Helicopter,Sydney
+250543,Almaty,46,Adventure,Helicopter,Istanbul
+445606,Yerevan,45,Adventure,Helicopter,Cape Town
+138899,Yerevan,70,Cruise,Submarine,Rome
+368904,Astana,29,Luxury,Helicopter,Dubai
+93443,Yerevan,69,Adventure,Submarine,Sydney
+175005,Astana,58,Luxury,Helicopter,Rome
+224444,Minsk,58,Cultural,Tram,Buenos Aires
+139746,Yerevan,29,Camping,Helicopter,Dubai
+338551,Tashkent,32,Nature,Motorcycle,Dubai
+265160,Minsk,50,Adventure,Helicopter,Venice
+252833,Minsk,33,Camping,Submarine,Istanbul
+173318,Minsk,34,Cruise,Submarine,Dubai
+274601,Tashkent,55,Cruise,Motorcycle,Sydney
+219666,Minsk,39,Camping,Motorcycle,Kyoto
+41217,Almaty,36,Nature,Helicopter,Venice
+362043,Baku,25,Camping,Tram,Venice
+129454,Tashkent,65,Nature,Motorcycle,Buenos Aires
+104259,Baku,43,Nature,Bicycle,Venice
+363655,Astana,44,Cultural,Helicopter,Dubai
+463286,Yerevan,45,Nature,Tram,Buenos Aires
+179726,Almaty,55,Cruise,Helicopter,Venice
+189973,Baku,51,Camping,Submarine,Sydney
+60824,Astana,45,Cruise,Tram,Venice
+426192,Minsk,66,Cruise,Helicopter,Dubai
+334206,Baku,65,Nature,Submarine,Buenos Aires
+123425,Tashkent,36,Nature,Tram,Sydney
+253258,Astana,66,Cruise,Helicopter,Buenos Aires
+82338,Almaty,61,Cruise,Helicopter,Kyoto
+37441,Baku,52,Cruise,Motorcycle,Sydney
+402687,Almaty,43,Cultural,Tram,Kyoto
+447934,Baku,27,Adventure,Tram,Venice
+407767,Minsk,34,Cultural,Helicopter,Buenos Aires
+72179,Minsk,34,Cultural,Helicopter,Sydney
+438797,Baku,65,Cultural,Helicopter,Rome
+147575,Almaty,51,Cruise,Submarine,Sydney
+202033,Astana,30,Nature,Bicycle,Buenos Aires
+253800,Astana,38,Adventure,Submarine,Seoul
+102596,Yerevan,35,Cultural,Submarine,Kyoto
+308506,Tashkent,28,Adventure,Tram,Kyoto
+72497,Tashkent,62,Luxury,Submarine,Kyoto
+179134,Astana,31,Cruise,Tram,Kyoto
+496796,Baku,39,Luxury,Bicycle,Cape Town
+147205,Astana,44,Cultural,Helicopter,Rome
+389952,Baku,25,Cultural,Motorcycle,Venice
+342131,Tashkent,49,Cultural,Tram,Venice
+74449,Minsk,61,Cultural,Submarine,Dubai
+83690,Astana,44,Luxury,Helicopter,Buenos Aires
+123466,Almaty,37,Luxury,Bicycle,Kyoto
+461963,Almaty,61,Adventure,Tram,Istanbul
+161244,Tashkent,59,Camping,Submarine,Venice
+105413,Yerevan,63,Cruise,Helicopter,Seoul
+29549,Yerevan,68,Cultural,Submarine,Cape Town
+110397,Baku,42,Luxury,Tram,Dubai
+128368,Almaty,70,Cultural,Motorcycle,Rome
+194303,Astana,69,Nature,Motorcycle,Venice
+380242,Almaty,28,Nature,Submarine,Sydney
+103647,Minsk,67,Cultural,Tram,Rome
+93420,Astana,68,Cultural,Bicycle,Cape Town
+205174,Almaty,38,Cruise,Tram,Sydney
+390689,Tashkent,48,Camping,Tram,Seoul
+250388,Almaty,29,Nature,Helicopter,Sydney
+455402,Yerevan,69,Adventure,Tram,Cape Town
+141731,Astana,48,Luxury,Bicycle,Dubai
+202840,Almaty,41,Nature,Tram,Dubai
+384776,Tashkent,40,Adventure,Tram,Seoul
+316558,Yerevan,70,Luxury,Tram,Cape Town
+150462,Almaty,52,Nature,Bicycle,Dubai
+442325,Yerevan,60,Camping,Submarine,Sydney
+203932,Baku,66,Camping,Submarine,Cape Town
+464866,Tashkent,66,Nature,Tram,Cape Town
+415479,Almaty,45,Nature,Helicopter,Seoul
+455717,Minsk,25,Cultural,Motorcycle,Seoul
+447538,Yerevan,43,Nature,Tram,Venice
+61004,Astana,26,Nature,Motorcycle,Rome
+447922,Tashkent,28,Adventure,Bicycle,Rome
+356796,Minsk,37,Cultural,Helicopter,Cape Town
+257248,Baku,48,Luxury,Helicopter,Cape Town
+70699,Baku,58,Cultural,Bicycle,Rome
+101099,Astana,29,Adventure,Helicopter,Rome
+292689,Astana,42,Adventure,Tram,Istanbul
+404259,Almaty,26,Cultural,Motorcycle,Kyoto
+362503,Almaty,51,Nature,Helicopter,Cape Town
+172799,Tashkent,51,Nature,Bicycle,Buenos Aires
+60308,Yerevan,30,Camping,Tram,Dubai
+270180,Almaty,46,Camping,Tram,Rome
+495296,Yerevan,69,Camping,Bicycle,Dubai
+286385,Minsk,27,Nature,Bicycle,Rome
+145869,Astana,65,Camping,Helicopter,Buenos Aires
+134206,Yerevan,60,Luxury,Tram,Rome
+332883,Almaty,45,Luxury,Bicycle,Istanbul
+59750,Astana,55,Luxury,Submarine,Buenos Aires
+136630,Astana,46,Adventure,Motorcycle,Kyoto
+243317,Tashkent,52,Camping,Helicopter,Venice
+389841,Astana,60,Cultural,Submarine,Istanbul
+294193,Astana,44,Nature,Helicopter,Istanbul
+368964,Minsk,55,Cruise,Submarine,Rome
+165616,Almaty,25,Cruise,Helicopter,Sydney
+65973,Astana,63,Adventure,Submarine,Venice
+230465,Yerevan,29,Adventure,Submarine,Dubai
+434257,Astana,34,Luxury,Submarine,Istanbul
+99609,Baku,50,Adventure,Helicopter,Dubai
+469557,Minsk,65,Adventure,Submarine,Sydney
+312980,Yerevan,27,Adventure,Submarine,Kyoto
+79609,Astana,51,Cruise,Bicycle,Dubai
+235190,Almaty,41,Nature,Tram,Rome
+71125,Astana,47,Nature,Motorcycle,Sydney
+168817,Astana,61,Nature,Submarine,Dubai
+364192,Almaty,65,Camping,Helicopter,Cape Town
+321303,Baku,53,Cruise,Tram,Venice
+434259,Almaty,43,Luxury,Submarine,Rome
+132872,Minsk,40,Cultural,Bicycle,Sydney
+426612,Tashkent,60,Cultural,Motorcycle,Rome
+194796,Almaty,29,Cruise,Motorcycle,Seoul
+230613,Almaty,25,Cruise,Bicycle,Dubai
+388671,Minsk,37,Cultural,Tram,Rome
+238870,Astana,38,Luxury,Helicopter,Buenos Aires
+87029,Almaty,53,Luxury,Motorcycle,Cape Town
+94769,Baku,52,Cultural,Motorcycle,Rome
+121556,Tashkent,44,Cruise,Helicopter,Dubai
+91423,Baku,36,Cultural,Motorcycle,Cape Town
+409040,Tashkent,39,Adventure,Motorcycle,Seoul
+144970,Almaty,59,Luxury,Helicopter,Sydney
+447356,Almaty,54,Nature,Helicopter,Cape Town
+80357,Baku,56,Nature,Submarine,Kyoto
+468302,Tashkent,33,Luxury,Helicopter,Seoul
+44478,Almaty,63,Nature,Motorcycle,Buenos Aires
+89825,Minsk,69,Nature,Bicycle,Dubai
+420055,Yerevan,40,Adventure,Motorcycle,Istanbul
+274280,Astana,54,Adventure,Bicycle,Rome
+215008,Astana,47,Nature,Motorcycle,Seoul
+392335,Almaty,55,Luxury,Motorcycle,Kyoto
+297977,Almaty,65,Camping,Submarine,Cape Town
+238537,Tashkent,51,Camping,Tram,Buenos Aires
+430590,Tashkent,39,Nature,Submarine,Seoul
+289890,Almaty,40,Cruise,Bicycle,Istanbul
+147185,Yerevan,46,Luxury,Submarine,Sydney
+41049,Minsk,40,Luxury,Bicycle,Istanbul
+429293,Tashkent,60,Cruise,Bicycle,Seoul
+298143,Yerevan,51,Luxury,Bicycle,Seoul
+177652,Minsk,31,Adventure,Helicopter,Buenos Aires
+223687,Almaty,59,Luxury,Tram,Cape Town
+33599,Tashkent,50,Nature,Submarine,Buenos Aires
+101331,Minsk,62,Adventure,Helicopter,Seoul
+136319,Yerevan,49,Adventure,Tram,Sydney
+226266,Yerevan,64,Cruise,Helicopter,Cape Town
+485978,Minsk,52,Cruise,Tram,Dubai
+413971,Yerevan,41,Cruise,Helicopter,Istanbul
+194545,Baku,37,Cultural,Helicopter,Venice
+162925,Minsk,52,Adventure,Submarine,Kyoto
+272445,Tashkent,65,Adventure,Motorcycle,Kyoto
+275727,Astana,33,Adventure,Bicycle,Cape Town
+49030,Tashkent,49,Camping,Bicycle,Buenos Aires
+141550,Baku,40,Nature,Tram,Cape Town
+94082,Baku,46,Cultural,Helicopter,Seoul
+146018,Minsk,54,Camping,Submarine,Seoul
+78491,Astana,31,Cultural,Bicycle,Cape Town
+413427,Yerevan,53,Adventure,Helicopter,Venice
+228718,Baku,28,Cultural,Motorcycle,Seoul
+403106,Tashkent,29,Nature,Bicycle,Kyoto
+115645,Almaty,69,Cultural,Bicycle,Cape Town
+54657,Minsk,67,Cultural,Motorcycle,Seoul
+76251,Astana,38,Camping,Submarine,Buenos Aires
+187165,Astana,25,Cultural,Bicycle,Buenos Aires
+52766,Almaty,31,Nature,Tram,Sydney
+123939,Astana,25,Cultural,Motorcycle,Rome
+202019,Baku,41,Nature,Motorcycle,Venice
+154521,Yerevan,58,Camping,Bicycle,Kyoto
+157469,Astana,44,Nature,Motorcycle,Kyoto
+348140,Astana,34,Cultural,Tram,Dubai
+246159,Astana,58,Adventure,Helicopter,Venice
+183072,Yerevan,40,Camping,Submarine,Kyoto
+47389,Minsk,28,Nature,Bicycle,Buenos Aires
+292309,Almaty,32,Luxury,Motorcycle,Seoul
+128946,Minsk,68,Luxury,Submarine,Venice
+258613,Baku,62,Luxury,Motorcycle,Cape Town
+397179,Minsk,51,Luxury,Submarine,Rome
+169779,Baku,48,Cruise,Tram,Istanbul
+491699,Baku,69,Luxury,Helicopter,Seoul
+52531,Astana,37,Camping,Helicopter,Kyoto
+62873,Yerevan,69,Adventure,Bicycle,Dubai
+336791,Baku,64,Luxury,Tram,Seoul
+328674,Minsk,57,Camping,Submarine,Dubai
+347899,Astana,47,Cruise,Motorcycle,Buenos Aires
+163671,Tashkent,60,Luxury,Bicycle,Istanbul
+106859,Tashkent,52,Nature,Helicopter,Seoul
+238987,Almaty,34,Cruise,Helicopter,Sydney
+405878,Astana,64,Adventure,Helicopter,Dubai
+33258,Tashkent,29,Adventure,Tram,Kyoto
+481615,Tashkent,49,Nature,Tram,Cape Town
+481092,Astana,42,Nature,Bicycle,Istanbul
+321866,Minsk,62,Luxury,Tram,Kyoto
+188416,Minsk,52,Adventure,Helicopter,Dubai
+359203,Yerevan,65,Nature,Motorcycle,Cape Town
+284766,Minsk,31,Camping,Tram,Seoul
+478900,Baku,27,Nature,Motorcycle,Sydney
+401389,Astana,61,Cultural,Submarine,Rome
+94376,Tashkent,33,Cruise,Helicopter,Rome
+449146,Astana,30,Luxury,Submarine,Istanbul
+143740,Tashkent,48,Camping,Motorcycle,Kyoto
+405253,Almaty,25,Nature,Bicycle,Seoul
+139435,Almaty,46,Nature,Motorcycle,Kyoto
+222588,Baku,43,Cultural,Helicopter,Venice
+410391,Astana,25,Camping,Tram,Dubai
+209868,Baku,70,Cruise,Tram,Cape Town
+440891,Almaty,58,Cruise,Helicopter,Buenos Aires
+227632,Yerevan,27,Cultural,Bicycle,Seoul
+141107,Astana,55,Luxury,Helicopter,Rome
+51592,Baku,43,Nature,Motorcycle,Cape Town
+109467,Astana,58,Cruise,Helicopter,Rome
+34884,Baku,35,Cultural,Tram,Cape Town
+219916,Tashkent,28,Cultural,Motorcycle,Sydney
+364387,Yerevan,36,Luxury,Helicopter,Cape Town
+102435,Astana,62,Cultural,Submarine,Buenos Aires
+59153,Baku,47,Cultural,Tram,Kyoto
+369649,Minsk,41,Cruise,Tram,Seoul
+477109,Baku,54,Luxury,Tram,Kyoto
+227763,Astana,32,Nature,Helicopter,Istanbul
+296786,Minsk,50,Adventure,Tram,Kyoto
+94600,Baku,48,Cruise,Submarine,Buenos Aires
+496986,Yerevan,39,Adventure,Motorcycle,Dubai
+395667,Baku,57,Luxury,Motorcycle,Venice
+284587,Astana,60,Nature,Bicycle,Kyoto
+179145,Astana,28,Luxury,Helicopter,Buenos Aires
+381554,Tashkent,57,Luxury,Helicopter,Sydney
+492289,Astana,57,Cultural,Motorcycle,Kyoto
+194034,Minsk,43,Cruise,Motorcycle,Cape Town
+457921,Yerevan,60,Camping,Motorcycle,Cape Town
+244313,Baku,41,Cultural,Bicycle,Rome
+486884,Baku,53,Adventure,Helicopter,Sydney
+330502,Minsk,58,Luxury,Bicycle,Sydney
+135039,Baku,32,Cruise,Bicycle,Kyoto
+77815,Astana,30,Adventure,Submarine,Venice
+455036,Tashkent,46,Luxury,Submarine,Kyoto
+404941,Minsk,38,Cultural,Motorcycle,Sydney
+131779,Almaty,30,Cruise,Submarine,Venice
+215866,Yerevan,68,Cultural,Helicopter,Sydney
+164650,Almaty,64,Nature,Bicycle,Istanbul
+470989,Minsk,67,Luxury,Submarine,Buenos Aires
+323253,Minsk,44,Luxury,Motorcycle,Cape Town
+65615,Baku,70,Camping,Helicopter,Cape Town
+48065,Baku,49,Cruise,Bicycle,Sydney
+499202,Baku,35,Cruise,Bicycle,Kyoto
+293434,Tashkent,45,Cultural,Tram,Cape Town
+371568,Tashkent,26,Cultural,Submarine,Venice
+373482,Tashkent,31,Luxury,Bicycle,Cape Town
+137010,Astana,63,Luxury,Helicopter,Dubai
+53699,Baku,35,Nature,Tram,Cape Town
+344298,Astana,63,Camping,Bicycle,Kyoto
+487367,Yerevan,44,Camping,Motorcycle,Buenos Aires
+27879,Astana,25,Luxury,Bicycle,Dubai
+213000,Tashkent,26,Nature,Submarine,Cape Town
+396564,Minsk,45,Luxury,Bicycle,Seoul
+200534,Almaty,65,Cruise,Helicopter,Buenos Aires
+460673,Yerevan,55,Camping,Motorcycle,Seoul
+394077,Almaty,68,Adventure,Tram,Rome
+415199,Yerevan,49,Luxury,Tram,Kyoto
+434751,Yerevan,67,Adventure,Motorcycle,Kyoto
+26736,Astana,65,Nature,Submarine,Cape Town
+429594,Tashkent,49,Nature,Bicycle,Istanbul
+478109,Baku,47,Nature,Motorcycle,Rome
+109284,Baku,52,Luxury,Tram,Venice
+28194,Yerevan,33,Cultural,Tram,Venice
+32759,Tashkent,44,Cultural,Tram,Dubai
+346882,Yerevan,62,Adventure,Helicopter,Venice
+73125,Baku,43,Cultural,Motorcycle,Sydney
+38011,Tashkent,44,Adventure,Motorcycle,Buenos Aires
+329484,Astana,25,Luxury,Submarine,Kyoto
+286090,Tashkent,52,Luxury,Motorcycle,Dubai
+79000,Baku,53,Cultural,Tram,Venice
+372588,Minsk,61,Nature,Bicycle,Rome
+105743,Yerevan,59,Cruise,Tram,Seoul
+426156,Tashkent,49,Nature,Tram,Buenos Aires
+43385,Astana,64,Cruise,Bicycle,Venice
+463653,Astana,27,Nature,Tram,Seoul
+484777,Yerevan,49,Cultural,Helicopter,Istanbul
+485036,Baku,51,Cultural,Motorcycle,Cape Town
+403270,Baku,64,Nature,Helicopter,Rome
+230897,Almaty,48,Luxury,Submarine,Dubai
+377004,Minsk,29,Nature,Helicopter,Istanbul
+97064,Yerevan,56,Cruise,Helicopter,Cape Town
+475956,Astana,52,Nature,Tram,Kyoto
+470339,Yerevan,53,Luxury,Submarine,Dubai
+166332,Almaty,41,Luxury,Tram,Cape Town
+169609,Astana,62,Cultural,Motorcycle,Venice
+452557,Astana,33,Adventure,Motorcycle,Sydney
+85957,Yerevan,29,Camping,Tram,Kyoto
+448318,Tashkent,40,Adventure,Helicopter,Cape Town
+464440,Almaty,68,Cultural,Bicycle,Kyoto
+397677,Yerevan,36,Nature,Motorcycle,Rome
+51235,Astana,70,Cruise,Bicycle,Cape Town
+65506,Baku,34,Nature,Tram,Cape Town
+337672,Minsk,26,Nature,Motorcycle,Buenos Aires
+283279,Tashkent,56,Cultural,Motorcycle,Istanbul
+53672,Yerevan,33,Adventure,Submarine,Cape Town
+367586,Tashkent,70,Camping,Submarine,Buenos Aires
+175439,Astana,38,Nature,Motorcycle,Sydney
+193069,Minsk,68,Cruise,Bicycle,Kyoto
+39357,Almaty,55,Luxury,Helicopter,Seoul
+415647,Almaty,48,Nature,Tram,Venice
+351281,Astana,59,Nature,Submarine,Dubai
+281498,Yerevan,26,Nature,Helicopter,Istanbul
+275060,Minsk,65,Adventure,Helicopter,Dubai
+122701,Almaty,48,Nature,Tram,Sydney
+311518,Tashkent,65,Cruise,Helicopter,Istanbul
+326690,Astana,66,Adventure,Helicopter,Dubai
+224229,Almaty,66,Cruise,Helicopter,Kyoto
+380367,Astana,36,Cruise,Submarine,Sydney
+267285,Baku,35,Nature,Bicycle,Buenos Aires
+277104,Minsk,30,Cruise,Submarine,Seoul
+162741,Astana,65,Luxury,Submarine,Cape Town
+82734,Tashkent,56,Adventure,Submarine,Istanbul
+91226,Astana,55,Camping,Bicycle,Cape Town
+138707,Minsk,34,Cruise,Helicopter,Dubai
+186693,Yerevan,66,Luxury,Submarine,Sydney
+435984,Minsk,48,Camping,Motorcycle,Sydney
+30003,Almaty,58,Cruise,Submarine,Venice
+274286,Almaty,70,Cultural,Bicycle,Seoul
+307093,Minsk,46,Nature,Motorcycle,Buenos Aires
+422744,Yerevan,27,Cruise,Motorcycle,Rome
+429984,Tashkent,40,Adventure,Tram,Seoul
+399853,Minsk,38,Camping,Motorcycle,Seoul
+175887,Yerevan,60,Camping,Motorcycle,Seoul
+438438,Tashkent,30,Luxury,Submarine,Buenos Aires
+272113,Minsk,56,Cruise,Motorcycle,Rome
+234836,Yerevan,56,Nature,Motorcycle,Venice
+117030,Baku,58,Nature,Helicopter,Istanbul
+46817,Astana,48,Luxury,Helicopter,Buenos Aires
+186132,Tashkent,63,Cruise,Tram,Rome
+111763,Astana,70,Cultural,Bicycle,Cape Town
+205376,Minsk,49,Nature,Tram,Dubai
+421928,Baku,49,Cruise,Bicycle,Sydney
+488769,Minsk,59,Nature,Submarine,Istanbul
+336858,Tashkent,33,Nature,Helicopter,Dubai
+337269,Almaty,68,Nature,Motorcycle,Istanbul
+240439,Minsk,67,Luxury,Bicycle,Buenos Aires
+203757,Minsk,25,Cruise,Submarine,Seoul
+124011,Almaty,27,Cultural,Motorcycle,Buenos Aires
+174385,Almaty,28,Cultural,Submarine,Seoul
+234930,Tashkent,66,Cruise,Helicopter,Seoul
+247446,Minsk,29,Cultural,Tram,Dubai
+124910,Almaty,57,Adventure,Submarine,Kyoto
+240523,Yerevan,37,Adventure,Bicycle,Cape Town
+123449,Yerevan,69,Camping,Submarine,Cape Town
+205861,Astana,55,Adventure,Bicycle,Seoul
+370057,Minsk,63,Cultural,Submarine,Venice
+143664,Yerevan,47,Luxury,Motorcycle,Sydney
+165770,Yerevan,59,Cultural,Tram,Rome
+25279,Almaty,26,Adventure,Tram,Dubai
+289403,Astana,65,Cruise,Helicopter,Buenos Aires
+464193,Minsk,61,Camping,Motorcycle,Rome
+209817,Astana,27,Cruise,Motorcycle,Buenos Aires
+426834,Baku,31,Camping,Submarine,Venice
+427066,Almaty,29,Camping,Motorcycle,Buenos Aires
+410641,Tashkent,27,Nature,Motorcycle,Istanbul
+221161,Yerevan,55,Cruise,Bicycle,Venice
+231303,Astana,28,Camping,Motorcycle,Dubai
+67492,Tashkent,62,Cultural,Tram,Cape Town
+70688,Astana,27,Cultural,Helicopter,Sydney
+313984,Almaty,35,Cruise,Bicycle,Cape Town
+195440,Baku,55,Camping,Motorcycle,Rome
+431182,Minsk,37,Nature,Tram,Istanbul
+280062,Yerevan,58,Nature,Motorcycle,Dubai
+177188,Yerevan,57,Nature,Helicopter,Seoul
+310645,Astana,66,Adventure,Submarine,Rome
+422720,Astana,40,Cruise,Motorcycle,Venice
+329785,Astana,33,Cruise,Helicopter,Venice
+464046,Astana,68,Nature,Helicopter,Dubai
+474966,Baku,29,Camping,Tram,Sydney
+449781,Yerevan,39,Camping,Tram,Dubai
+455619,Yerevan,46,Cruise,Bicycle,Cape Town
+455177,Astana,37,Camping,Tram,Kyoto
+324989,Astana,67,Nature,Motorcycle,Seoul
+436164,Almaty,69,Cruise,Submarine,Seoul
+242583,Astana,68,Luxury,Submarine,Seoul
+99533,Tashkent,38,Adventure,Motorcycle,Kyoto
+277557,Tashkent,47,Adventure,Tram,Cape Town
+330589,Astana,67,Nature,Tram,Istanbul
+435113,Almaty,48,Cultural,Submarine,Cape Town
+129730,Astana,46,Cultural,Submarine,Dubai
+461378,Almaty,52,Adventure,Helicopter,Rome
+277592,Astana,62,Nature,Submarine,Venice
+25203,Yerevan,46,Cruise,Submarine,Venice
+292379,Minsk,51,Luxury,Motorcycle,Buenos Aires
+327714,Baku,30,Camping,Helicopter,Cape Town
+442810,Yerevan,34,Cultural,Motorcycle,Venice
+322763,Minsk,53,Adventure,Helicopter,Rome
+252122,Astana,56,Cruise,Helicopter,Seoul
+87271,Baku,46,Camping,Motorcycle,Sydney
+177268,Baku,62,Camping,Tram,Sydney
+34610,Tashkent,56,Nature,Helicopter,Buenos Aires
+167532,Yerevan,28,Luxury,Tram,Venice
+56833,Almaty,40,Cruise,Motorcycle,Cape Town
+208841,Baku,28,Camping,Tram,Cape Town
+409693,Baku,30,Adventure,Motorcycle,Sydney
+314740,Almaty,27,Adventure,Submarine,Dubai
+453376,Yerevan,57,Cultural,Bicycle,Buenos Aires
+401390,Yerevan,70,Cultural,Tram,Seoul
+214805,Astana,45,Nature,Helicopter,Dubai
+206931,Astana,35,Luxury,Tram,Istanbul
+299363,Almaty,67,Cultural,Submarine,Istanbul
+194980,Almaty,69,Nature,Submarine,Seoul
+416841,Astana,68,Adventure,Bicycle,Seoul
+291370,Tashkent,60,Nature,Motorcycle,Kyoto
+335701,Tashkent,44,Adventure,Helicopter,Rome
+232895,Baku,59,Cruise,Tram,Seoul
+490287,Astana,26,Cultural,Motorcycle,Cape Town
+44161,Yerevan,64,Luxury,Tram,Venice
+314693,Yerevan,32,Cultural,Bicycle,Rome
+235491,Tashkent,50,Luxury,Bicycle,Venice
+155532,Almaty,58,Cruise,Bicycle,Buenos Aires
+422086,Minsk,51,Adventure,Tram,Venice
+38975,Minsk,25,Camping,Motorcycle,Dubai
+83730,Yerevan,28,Luxury,Motorcycle,Sydney
+256798,Astana,64,Cruise,Bicycle,Dubai
+300789,Yerevan,51,Nature,Submarine,Istanbul
+304127,Almaty,39,Nature,Helicopter,Istanbul
+457043,Astana,46,Nature,Tram,Seoul
+330377,Minsk,25,Cruise,Motorcycle,Istanbul
+441189,Yerevan,25,Cultural,Motorcycle,Seoul
+223681,Almaty,54,Camping,Motorcycle,Venice
+315073,Almaty,69,Cruise,Submarine,Rome
+295627,Minsk,36,Cruise,Submarine,Kyoto
+81083,Minsk,54,Cultural,Helicopter,Istanbul
+320041,Astana,27,Adventure,Helicopter,Istanbul
+75356,Minsk,67,Adventure,Helicopter,Cape Town
+390013,Tashkent,31,Cultural,Tram,Istanbul
+241385,Yerevan,38,Adventure,Tram,Cape Town
+36030,Yerevan,49,Cruise,Motorcycle,Dubai
+268308,Almaty,46,Nature,Motorcycle,Kyoto
+44126,Yerevan,52,Camping,Helicopter,Cape Town
+237669,Almaty,44,Adventure,Tram,Sydney
+454365,Almaty,49,Cruise,Motorcycle,Istanbul
+470984,Baku,28,Nature,Bicycle,Buenos Aires
+492842,Yerevan,52,Luxury,Motorcycle,Venice
+199091,Baku,53,Nature,Tram,Istanbul
+231874,Baku,65,Adventure,Helicopter,Rome
+96392,Minsk,44,Nature,Helicopter,Seoul
+404002,Minsk,59,Luxury,Submarine,Buenos Aires
+255571,Yerevan,49,Cultural,Bicycle,Venice
+37362,Yerevan,61,Luxury,Helicopter,Cape Town
+375383,Minsk,61,Nature,Helicopter,Kyoto
+487982,Yerevan,36,Luxury,Tram,Venice
+271710,Minsk,30,Luxury,Tram,Venice
+389058,Astana,57,Cruise,Tram,Rome
+417410,Baku,51,Luxury,Bicycle,Cape Town
+39901,Yerevan,40,Cruise,Bicycle,Kyoto
+70556,Yerevan,28,Luxury,Helicopter,Venice
+307367,Almaty,66,Cultural,Helicopter,Kyoto
+196668,Minsk,59,Luxury,Helicopter,Sydney
+389692,Yerevan,47,Adventure,Motorcycle,Sydney
+462460,Yerevan,70,Nature,Submarine,Kyoto
+247847,Yerevan,32,Luxury,Submarine,Dubai
+44747,Astana,48,Camping,Submarine,Istanbul
+53260,Minsk,27,Nature,Helicopter,Istanbul
+276306,Tashkent,48,Luxury,Submarine,Buenos Aires
+383455,Tashkent,36,Cruise,Helicopter,Kyoto
+111377,Yerevan,38,Adventure,Bicycle,Dubai
+415384,Almaty,63,Luxury,Bicycle,Cape Town
+334594,Yerevan,57,Luxury,Motorcycle,Rome
+89656,Minsk,35,Cultural,Submarine,Cape Town
+449226,Tashkent,53,Luxury,Bicycle,Dubai
+197585,Astana,31,Nature,Submarine,Kyoto
+146986,Astana,36,Nature,Bicycle,Buenos Aires
+391235,Baku,48,Nature,Bicycle,Cape Town
+215374,Baku,39,Adventure,Submarine,Istanbul
+32526,Almaty,43,Cruise,Tram,Rome
+170854,Yerevan,39,Camping,Helicopter,Dubai
+450634,Baku,49,Cruise,Submarine,Rome
+338306,Astana,41,Cruise,Tram,Sydney
+392368,Astana,29,Nature,Helicopter,Kyoto
+210284,Minsk,29,Nature,Submarine,Seoul
+139410,Baku,59,Cultural,Submarine,Venice
+25304,Almaty,29,Adventure,Submarine,Seoul
+33806,Yerevan,47,Cruise,Submarine,Cape Town
+80716,Tashkent,25,Luxury,Helicopter,Venice
+393672,Tashkent,27,Cruise,Tram,Sydney
+105477,Almaty,67,Luxury,Submarine,Buenos Aires
+403653,Baku,60,Camping,Bicycle,Venice
+353691,Astana,56,Adventure,Tram,Cape Town
+307323,Tashkent,59,Cultural,Helicopter,Buenos Aires
+480863,Baku,28,Adventure,Tram,Rome
+151817,Astana,51,Nature,Submarine,Buenos Aires
+156148,Baku,55,Luxury,Bicycle,Cape Town
+165005,Minsk,54,Cruise,Tram,Buenos Aires
+453966,Almaty,63,Cultural,Helicopter,Seoul
+336726,Minsk,25,Nature,Bicycle,Rome
+374293,Tashkent,25,Adventure,Tram,Kyoto
+180151,Yerevan,36,Camping,Motorcycle,Seoul
+166552,Minsk,41,Luxury,Tram,Istanbul
+350157,Baku,57,Nature,Tram,Buenos Aires
+123678,Tashkent,63,Camping,Motorcycle,Istanbul
+177100,Minsk,43,Adventure,Submarine,Kyoto
+46453,Tashkent,47,Cruise,Bicycle,Seoul
+370513,Minsk,33,Luxury,Submarine,Buenos Aires
+105876,Yerevan,33,Camping,Bicycle,Dubai
+193235,Baku,42,Nature,Bicycle,Cape Town
+148279,Astana,27,Adventure,Helicopter,Kyoto
+146040,Tashkent,57,Luxury,Bicycle,Rome
+397152,Minsk,53,Cultural,Motorcycle,Istanbul
+92003,Almaty,66,Nature,Helicopter,Cape Town
+432424,Almaty,50,Luxury,Tram,Dubai
+471583,Almaty,27,Cruise,Bicycle,Venice
+251807,Tashkent,47,Cultural,Helicopter,Kyoto
+494816,Yerevan,50,Nature,Submarine,Venice
+203140,Baku,64,Adventure,Tram,Rome
+54637,Baku,54,Cultural,Helicopter,Cape Town
+186147,Baku,69,Cruise,Submarine,Istanbul
+268329,Yerevan,49,Adventure,Submarine,Sydney
+95253,Astana,43,Cruise,Helicopter,Venice
+374564,Tashkent,56,Cultural,Submarine,Istanbul
+473234,Astana,33,Cultural,Tram,Dubai
+55824,Yerevan,26,Adventure,Motorcycle,Istanbul
+292631,Minsk,55,Nature,Helicopter,Cape Town
+459774,Tashkent,40,Camping,Helicopter,Rome
+148563,Yerevan,38,Camping,Motorcycle,Seoul
+400770,Astana,65,Cultural,Motorcycle,Kyoto
+40578,Tashkent,58,Cruise,Motorcycle,Seoul
+297963,Baku,48,Cruise,Bicycle,Istanbul
+459039,Minsk,25,Adventure,Tram,Dubai
+101380,Almaty,52,Luxury,Tram,Rome
+197621,Tashkent,42,Adventure,Motorcycle,Cape Town
+41853,Yerevan,70,Nature,Bicycle,Venice
+494047,Tashkent,45,Camping,Tram,Venice
+342832,Tashkent,30,Cruise,Motorcycle,Venice
+159540,Tashkent,34,Adventure,Motorcycle,Sydney
+77462,Astana,54,Cultural,Submarine,Dubai
+97441,Yerevan,35,Adventure,Helicopter,Dubai
+371742,Tashkent,66,Adventure,Bicycle,Venice
+360553,Tashkent,30,Luxury,Bicycle,Kyoto
+417040,Baku,69,Cruise,Motorcycle,Sydney
+461995,Almaty,30,Luxury,Bicycle,Rome
+26698,Almaty,49,Nature,Bicycle,Istanbul
+445300,Yerevan,27,Adventure,Submarine,Kyoto
+277978,Tashkent,37,Cruise,Motorcycle,Seoul
+317496,Minsk,64,Cruise,Submarine,Kyoto
+382449,Minsk,48,Luxury,Tram,Cape Town
+177820,Almaty,49,Adventure,Motorcycle,Sydney
+373896,Astana,41,Luxury,Helicopter,Cape Town
+358759,Minsk,37,Camping,Motorcycle,Buenos Aires
+439104,Tashkent,51,Nature,Bicycle,Venice
+238858,Yerevan,44,Luxury,Submarine,Istanbul
+93525,Astana,38,Luxury,Bicycle,Buenos Aires
+389378,Almaty,32,Cruise,Submarine,Istanbul
+211153,Yerevan,56,Nature,Submarine,Cape Town
+496997,Almaty,37,Luxury,Motorcycle,Kyoto
+219193,Minsk,35,Cruise,Submarine,Buenos Aires
+104880,Baku,46,Camping,Helicopter,Rome
+76476,Almaty,27,Luxury,Helicopter,Kyoto
+348363,Yerevan,43,Nature,Motorcycle,Sydney
+402903,Tashkent,37,Luxury,Motorcycle,Dubai
+465742,Yerevan,25,Cultural,Motorcycle,Istanbul
+102136,Tashkent,34,Camping,Motorcycle,Venice
+176413,Astana,33,Cruise,Motorcycle,Buenos Aires
+474456,Baku,53,Camping,Bicycle,Istanbul
+344287,Yerevan,70,Adventure,Helicopter,Rome
+322858,Tashkent,59,Cruise,Motorcycle,Buenos Aires
+397303,Yerevan,31,Cruise,Submarine,Kyoto
+310436,Minsk,40,Cruise,Submarine,Buenos Aires
+479737,Minsk,52,Cruise,Bicycle,Sydney
+390044,Minsk,55,Luxury,Helicopter,Kyoto
+163272,Tashkent,39,Luxury,Submarine,Istanbul
+300677,Baku,41,Luxury,Helicopter,Dubai
+454392,Yerevan,27,Cultural,Helicopter,Seoul
+313162,Astana,63,Luxury,Submarine,Istanbul
+82436,Baku,57,Camping,Helicopter,Kyoto
+347800,Baku,38,Luxury,Helicopter,Venice
+416803,Baku,70,Adventure,Motorcycle,Kyoto
+188960,Minsk,35,Cultural,Helicopter,Istanbul
+163098,Minsk,37,Adventure,Helicopter,Kyoto
+446983,Tashkent,47,Luxury,Motorcycle,Istanbul
+214875,Minsk,68,Adventure,Bicycle,Sydney
+349294,Minsk,26,Nature,Tram,Kyoto
+477416,Minsk,36,Adventure,Helicopter,Seoul
+113802,Tashkent,37,Camping,Motorcycle,Dubai
+385807,Tashkent,32,Camping,Motorcycle,Istanbul
+167765,Astana,65,Adventure,Motorcycle,Istanbul
+276792,Minsk,36,Camping,Submarine,Cape Town
+355778,Baku,69,Cultural,Submarine,Cape Town
+453309,Tashkent,61,Luxury,Submarine,Istanbul
+435229,Yerevan,55,Luxury,Bicycle,Cape Town
+266839,Astana,49,Cultural,Bicycle,Buenos Aires
+308592,Minsk,48,Nature,Motorcycle,Buenos Aires
+186121,Minsk,61,Adventure,Motorcycle,Rome
+307892,Yerevan,55,Luxury,Submarine,Sydney
+33024,Tashkent,57,Cruise,Motorcycle,Buenos Aires
+430632,Yerevan,50,Cultural,Tram,Venice
+127563,Minsk,67,Nature,Motorcycle,Sydney
+272439,Almaty,39,Cruise,Tram,Rome
+343859,Tashkent,33,Adventure,Motorcycle,Dubai
+236461,Almaty,51,Luxury,Submarine,Dubai
+254712,Almaty,40,Cruise,Bicycle,Venice
+225043,Astana,69,Nature,Motorcycle,Rome
+133053,Tashkent,65,Cruise,Submarine,Rome
+254387,Yerevan,37,Adventure,Bicycle,Dubai
+498113,Astana,30,Luxury,Motorcycle,Kyoto
+437027,Tashkent,67,Cultural,Bicycle,Kyoto
+129941,Yerevan,39,Cultural,Submarine,Istanbul
+322416,Yerevan,25,Cultural,Bicycle,Sydney
+387709,Almaty,69,Luxury,Bicycle,Kyoto
+247208,Minsk,55,Cultural,Bicycle,Cape Town
+464924,Yerevan,35,Cultural,Motorcycle,Buenos Aires
+178334,Minsk,69,Cultural,Tram,Seoul
+128837,Almaty,66,Nature,Submarine,Istanbul
+48941,Baku,70,Nature,Helicopter,Seoul
+323066,Minsk,30,Cruise,Tram,Sydney
+436848,Yerevan,30,Nature,Helicopter,Buenos Aires
+86176,Baku,55,Adventure,Bicycle,Kyoto
+206367,Yerevan,35,Adventure,Motorcycle,Seoul
+84999,Yerevan,39,Cruise,Motorcycle,Dubai
+227343,Minsk,39,Luxury,Helicopter,Dubai
+446480,Minsk,28,Camping,Tram,Seoul
+247536,Minsk,30,Cruise,Tram,Dubai
+468835,Astana,29,Adventure,Tram,Dubai
+470274,Astana,50,Nature,Motorcycle,Seoul
+471190,Minsk,48,Luxury,Bicycle,Rome
+77814,Tashkent,27,Adventure,Motorcycle,Rome
+357291,Baku,68,Luxury,Helicopter,Buenos Aires
+244698,Astana,49,Luxury,Submarine,Seoul
+322386,Yerevan,56,Luxury,Tram,Seoul
+442821,Tashkent,47,Luxury,Helicopter,Kyoto
+372987,Almaty,55,Cruise,Submarine,Cape Town
+433271,Baku,60,Luxury,Submarine,Seoul
+105773,Almaty,37,Camping,Tram,Sydney
+95997,Tashkent,45,Adventure,Bicycle,Seoul
+279148,Almaty,55,Camping,Submarine,Seoul
+326152,Almaty,66,Adventure,Tram,Buenos Aires
+216990,Almaty,47,Adventure,Motorcycle,Seoul
+47159,Astana,65,Cruise,Bicycle,Kyoto
+283341,Astana,27,Adventure,Motorcycle,Sydney
+149044,Yerevan,56,Camping,Tram,Dubai
+194584,Astana,30,Nature,Submarine,Kyoto
+404237,Minsk,61,Adventure,Tram,Buenos Aires
+438152,Minsk,62,Nature,Motorcycle,Seoul
+392139,Yerevan,36,Camping,Helicopter,Istanbul
+91423,Tashkent,39,Nature,Helicopter,Seoul
+117362,Yerevan,35,Luxury,Bicycle,Seoul
+133644,Astana,55,Adventure,Helicopter,Kyoto
+226187,Almaty,62,Camping,Bicycle,Rome
+389042,Yerevan,52,Cultural,Bicycle,Kyoto
+324214,Almaty,44,Cultural,Helicopter,Buenos Aires
+149100,Astana,44,Nature,Tram,Sydney
+378312,Astana,39,Luxury,Helicopter,Cape Town
+169997,Tashkent,38,Adventure,Helicopter,Seoul
+58799,Yerevan,44,Cruise,Motorcycle,Sydney
+173573,Baku,42,Cultural,Bicycle,Venice
+324405,Baku,69,Adventure,Helicopter,Rome
+97445,Astana,32,Adventure,Bicycle,Buenos Aires
+167545,Minsk,42,Nature,Bicycle,Buenos Aires
+31684,Yerevan,47,Cruise,Tram,Seoul
+138488,Minsk,58,Nature,Helicopter,Sydney
+218031,Almaty,26,Nature,Helicopter,Buenos Aires
+98368,Almaty,55,Camping,Tram,Istanbul
+397989,Tashkent,48,Adventure,Tram,Rome
+259614,Minsk,45,Cruise,Motorcycle,Rome
+340573,Yerevan,56,Cultural,Submarine,Seoul
+104992,Baku,53,Adventure,Submarine,Dubai
+50927,Astana,42,Cultural,Tram,Rome
+419568,Astana,55,Cultural,Tram,Buenos Aires
+358703,Baku,25,Nature,Motorcycle,Dubai
+188678,Baku,32,Camping,Motorcycle,Buenos Aires
+234016,Yerevan,67,Cruise,Motorcycle,Istanbul
+298878,Baku,58,Adventure,Tram,Buenos Aires
+462774,Baku,48,Cruise,Bicycle,Rome
+251700,Tashkent,43,Luxury,Bicycle,Seoul
+238422,Astana,70,Cruise,Submarine,Cape Town
+439714,Minsk,70,Adventure,Tram,Sydney
+119388,Baku,66,Cultural,Bicycle,Istanbul
+313456,Astana,69,Cultural,Tram,Rome
+350183,Almaty,44,Cruise,Motorcycle,Seoul
+387128,Tashkent,60,Cultural,Motorcycle,Istanbul
+310802,Baku,67,Cultural,Submarine,Kyoto
+413633,Minsk,42,Nature,Submarine,Buenos Aires
+272554,Almaty,66,Cruise,Motorcycle,Dubai
+450931,Tashkent,36,Cruise,Helicopter,Venice
+443675,Baku,59,Camping,Helicopter,Rome
+441878,Minsk,49,Nature,Bicycle,Cape Town
+53789,Astana,64,Nature,Bicycle,Sydney
+263637,Baku,36,Nature,Motorcycle,Sydney
+108540,Baku,44,Luxury,Motorcycle,Buenos Aires
+314025,Astana,67,Cruise,Bicycle,Istanbul
+466266,Tashkent,65,Camping,Bicycle,Seoul
+35360,Almaty,25,Camping,Tram,Cape Town
+413516,Minsk,47,Cruise,Bicycle,Venice
+26326,Astana,40,Nature,Bicycle,Rome
+179229,Baku,32,Adventure,Submarine,Cape Town
+484417,Baku,45,Camping,Submarine,Sydney
+495734,Minsk,67,Cultural,Motorcycle,Istanbul
+84824,Minsk,35,Cultural,Bicycle,Venice
+153095,Yerevan,35,Nature,Helicopter,Istanbul
+458725,Baku,48,Cruise,Bicycle,Dubai
+151892,Minsk,62,Adventure,Tram,Kyoto
+425740,Tashkent,27,Cultural,Motorcycle,Buenos Aires
+412981,Yerevan,62,Cultural,Submarine,Venice
+275335,Astana,56,Nature,Helicopter,Venice
+90157,Minsk,61,Cultural,Helicopter,Sydney
+372960,Tashkent,47,Cultural,Bicycle,Buenos Aires
+233182,Minsk,63,Camping,Bicycle,Seoul
+279004,Astana,46,Cultural,Tram,Cape Town
+147791,Minsk,69,Nature,Motorcycle,Istanbul
+491979,Baku,66,Cruise,Helicopter,Kyoto
+212530,Yerevan,40,Camping,Bicycle,Venice
+119628,Tashkent,59,Luxury,Motorcycle,Venice
+244253,Tashkent,63,Camping,Motorcycle,Rome
+480770,Astana,52,Cultural,Submarine,Rome
+329953,Tashkent,40,Camping,Bicycle,Seoul
+331910,Yerevan,66,Nature,Helicopter,Venice
+342544,Minsk,29,Cruise,Motorcycle,Cape Town
+173394,Minsk,59,Luxury,Bicycle,Istanbul
+465632,Tashkent,27,Adventure,Bicycle,Istanbul
+48333,Baku,57,Luxury,Helicopter,Kyoto
+179420,Tashkent,27,Cultural,Motorcycle,Dubai
+328293,Astana,67,Luxury,Tram,Seoul
+245194,Astana,70,Adventure,Tram,Venice
+420352,Yerevan,57,Camping,Tram,Dubai
+157690,Baku,31,Cruise,Bicycle,Sydney
+267807,Astana,40,Cruise,Bicycle,Venice
+457868,Baku,62,Camping,Tram,Sydney
+392744,Almaty,64,Camping,Bicycle,Dubai
+373712,Yerevan,36,Nature,Motorcycle,Seoul
+257546,Tashkent,25,Camping,Bicycle,Seoul
+378096,Tashkent,26,Cruise,Tram,Istanbul
+206854,Minsk,28,Camping,Tram,Buenos Aires
+109036,Yerevan,57,Camping,Bicycle,Dubai
+133925,Astana,55,Cultural,Motorcycle,Dubai
+372726,Astana,68,Nature,Bicycle,Istanbul
+420219,Astana,56,Luxury,Submarine,Rome
+387176,Yerevan,48,Luxury,Motorcycle,Istanbul
+365187,Astana,66,Nature,Helicopter,Venice
+382985,Tashkent,63,Adventure,Bicycle,Sydney
+223428,Tashkent,65,Nature,Motorcycle,Buenos Aires
+66687,Astana,58,Luxury,Helicopter,Buenos Aires
+186525,Tashkent,70,Cruise,Bicycle,Seoul
+33985,Yerevan,47,Nature,Bicycle,Istanbul
+271136,Yerevan,63,Cultural,Submarine,Buenos Aires
+379592,Astana,34,Camping,Tram,Istanbul
+189783,Minsk,32,Nature,Helicopter,Istanbul
+387237,Minsk,26,Cruise,Motorcycle,Cape Town
+295316,Baku,47,Luxury,Helicopter,Cape Town
+104865,Almaty,48,Adventure,Submarine,Rome
+473346,Minsk,25,Luxury,Helicopter,Sydney
+204197,Astana,25,Adventure,Tram,Venice
+345725,Astana,45,Luxury,Bicycle,Buenos Aires
+410563,Almaty,62,Cultural,Motorcycle,Dubai
+260062,Minsk,40,Nature,Tram,Venice
+117478,Tashkent,55,Luxury,Submarine,Istanbul
+102963,Tashkent,64,Nature,Bicycle,Buenos Aires
+424955,Almaty,35,Cultural,Tram,Rome
+57702,Minsk,55,Camping,Tram,Seoul
+461286,Tashkent,63,Nature,Tram,Buenos Aires
+317413,Minsk,40,Cultural,Submarine,Buenos Aires
+44182,Baku,45,Nature,Tram,Dubai
+180040,Astana,41,Cruise,Tram,Seoul
+308236,Tashkent,31,Cultural,Helicopter,Dubai
+111444,Minsk,34,Camping,Motorcycle,Rome
+279614,Astana,39,Nature,Motorcycle,Kyoto
+318877,Almaty,38,Cruise,Tram,Cape Town
+118645,Tashkent,61,Adventure,Submarine,Venice
+52198,Yerevan,38,Cultural,Tram,Venice
+103544,Baku,46,Adventure,Bicycle,Rome
+120660,Baku,34,Cruise,Bicycle,Dubai
+61477,Minsk,32,Camping,Bicycle,Kyoto
+57918,Minsk,58,Nature,Tram,Kyoto
+82943,Baku,53,Camping,Motorcycle,Venice
+418159,Minsk,25,Cruise,Helicopter,Buenos Aires
+91893,Yerevan,42,Cruise,Submarine,Istanbul
+459642,Astana,36,Adventure,Helicopter,Seoul
+183993,Yerevan,45,Cultural,Submarine,Sydney
+331085,Yerevan,41,Nature,Tram,Cape Town
+215939,Baku,62,Cultural,Helicopter,Istanbul
+267995,Tashkent,42,Luxury,Bicycle,Venice
+187419,Astana,29,Luxury,Helicopter,Kyoto
+205681,Astana,27,Adventure,Motorcycle,Seoul
+285651,Yerevan,61,Cruise,Submarine,Rome
+30979,Baku,53,Luxury,Bicycle,Sydney
+447234,Yerevan,32,Camping,Submarine,Kyoto
+183687,Astana,43,Cruise,Submarine,Venice
+471762,Astana,64,Adventure,Motorcycle,Rome
+31546,Yerevan,26,Nature,Submarine,Cape Town
+411373,Yerevan,50,Adventure,Tram,Cape Town
+396415,Astana,33,Cultural,Tram,Seoul
+335753,Astana,69,Luxury,Tram,Istanbul
+417468,Astana,27,Camping,Submarine,Cape Town
+390621,Almaty,63,Camping,Bicycle,Venice
+243854,Baku,59,Nature,Bicycle,Sydney
+276276,Yerevan,69,Luxury,Bicycle,Sydney
+332504,Yerevan,69,Cultural,Tram,Kyoto
+283733,Astana,42,Luxury,Tram,Sydney
+491336,Almaty,43,Cultural,Submarine,Sydney
+299672,Tashkent,50,Adventure,Helicopter,Venice
+270974,Tashkent,60,Adventure,Tram,Buenos Aires
+33218,Baku,64,Camping,Helicopter,Dubai
+472619,Almaty,54,Nature,Helicopter,Kyoto
+442667,Minsk,44,Adventure,Submarine,Sydney
+196728,Tashkent,67,Nature,Helicopter,Rome
+176406,Almaty,70,Camping,Helicopter,Dubai
+318573,Almaty,26,Cultural,Helicopter,Seoul
+426799,Minsk,65,Luxury,Helicopter,Sydney
+382423,Astana,48,Adventure,Bicycle,Sydney
+182045,Tashkent,61,Camping,Bicycle,Kyoto
+493075,Tashkent,42,Adventure,Motorcycle,Sydney
+97441,Minsk,70,Luxury,Helicopter,Venice
+37597,Yerevan,26,Camping,Tram,Sydney
+44259,Almaty,31,Camping,Submarine,Buenos Aires
+218500,Minsk,58,Luxury,Helicopter,Sydney
+248296,Yerevan,29,Adventure,Motorcycle,Cape Town
+394839,Minsk,44,Luxury,Motorcycle,Dubai
+41882,Tashkent,64,Adventure,Helicopter,Istanbul
+233233,Yerevan,25,Cruise,Tram,Sydney
+370645,Tashkent,37,Nature,Submarine,Dubai
+57684,Yerevan,29,Camping,Helicopter,Istanbul
+32454,Tashkent,55,Cultural,Motorcycle,Cape Town
+235278,Baku,43,Adventure,Submarine,Dubai
+204932,Yerevan,34,Cruise,Bicycle,Buenos Aires
+436258,Astana,26,Adventure,Helicopter,Istanbul
+444061,Baku,40,Adventure,Submarine,Istanbul
+287687,Astana,52,Adventure,Helicopter,Istanbul
+58478,Almaty,62,Nature,Submarine,Sydney
+77833,Astana,40,Nature,Helicopter,Istanbul
+388867,Baku,29,Cultural,Submarine,Istanbul
+173173,Yerevan,47,Cultural,Helicopter,Cape Town
+35550,Minsk,56,Cruise,Bicycle,Sydney
+203565,Baku,62,Nature,Bicycle,Dubai
+243701,Yerevan,36,Camping,Bicycle,Rome
+377045,Almaty,30,Adventure,Bicycle,Istanbul
+183017,Minsk,49,Cruise,Submarine,Seoul
+149252,Almaty,44,Cultural,Bicycle,Istanbul
+190513,Minsk,65,Nature,Tram,Cape Town
+296554,Baku,28,Cultural,Motorcycle,Venice
+188268,Minsk,35,Adventure,Tram,Sydney
+451581,Yerevan,45,Cruise,Motorcycle,Istanbul
+62666,Astana,60,Nature,Bicycle,Seoul
+456704,Minsk,57,Nature,Submarine,Buenos Aires
+454642,Tashkent,61,Nature,Tram,Istanbul
+117602,Almaty,50,Cruise,Tram,Seoul
+399518,Minsk,63,Adventure,Bicycle,Istanbul
+432191,Astana,25,Cruise,Bicycle,Rome
+485555,Yerevan,41,Luxury,Submarine,Buenos Aires
+185322,Tashkent,58,Cultural,Motorcycle,Buenos Aires
+400375,Astana,68,Camping,Tram,Venice
+141796,Baku,29,Cruise,Submarine,Seoul
+356225,Baku,26,Cultural,Bicycle,Buenos Aires
+211823,Baku,68,Luxury,Tram,Seoul
+161910,Astana,30,Nature,Bicycle,Cape Town
+242569,Almaty,42,Nature,Helicopter,Rome
+106504,Yerevan,36,Nature,Motorcycle,Buenos Aires
+104247,Tashkent,33,Nature,Submarine,Kyoto
+225094,Almaty,29,Cruise,Submarine,Sydney
+450276,Almaty,52,Nature,Bicycle,Seoul
+277827,Almaty,54,Cultural,Bicycle,Sydney
+198521,Tashkent,70,Luxury,Helicopter,Rome
+354399,Almaty,41,Camping,Tram,Buenos Aires
+146863,Yerevan,63,Cruise,Helicopter,Buenos Aires
+117458,Astana,67,Cruise,Motorcycle,Cape Town
+369334,Tashkent,59,Cultural,Bicycle,Venice
+185922,Yerevan,34,Luxury,Tram,Sydney
+453546,Astana,26,Adventure,Tram,Kyoto
+395569,Baku,40,Camping,Motorcycle,Cape Town
+90038,Almaty,54,Camping,Helicopter,Istanbul
+129928,Astana,38,Cruise,Submarine,Sydney
+281216,Astana,50,Nature,Motorcycle,Dubai
+151814,Almaty,70,Nature,Motorcycle,Buenos Aires
+103115,Minsk,34,Nature,Bicycle,Istanbul
+167852,Baku,31,Cultural,Tram,Kyoto
+334106,Astana,60,Cultural,Helicopter,Rome
+383101,Astana,57,Adventure,Helicopter,Dubai
+297814,Almaty,28,Adventure,Tram,Rome
+208827,Baku,65,Luxury,Motorcycle,Cape Town
+143764,Baku,52,Camping,Motorcycle,Kyoto
+40732,Baku,67,Nature,Bicycle,Cape Town
+221748,Yerevan,28,Nature,Tram,Dubai
+68044,Baku,60,Adventure,Motorcycle,Dubai
+89645,Almaty,51,Luxury,Helicopter,Sydney
+122018,Astana,69,Luxury,Helicopter,Rome
+380173,Minsk,53,Cultural,Submarine,Buenos Aires
+179949,Astana,55,Cruise,Submarine,Istanbul
+349238,Astana,25,Cruise,Motorcycle,Dubai
+127597,Minsk,50,Camping,Submarine,Buenos Aires
+337928,Astana,46,Cultural,Submarine,Buenos Aires
+392009,Baku,64,Luxury,Submarine,Sydney
+353857,Minsk,61,Camping,Submarine,Dubai
+417979,Minsk,35,Luxury,Motorcycle,Kyoto
+491711,Yerevan,33,Luxury,Tram,Rome
+386850,Yerevan,25,Adventure,Bicycle,Buenos Aires
+104785,Tashkent,28,Luxury,Submarine,Dubai
+89265,Tashkent,57,Camping,Helicopter,Rome
+406948,Baku,48,Luxury,Submarine,Kyoto
+189903,Almaty,49,Camping,Submarine,Kyoto
+374451,Almaty,37,Cruise,Submarine,Sydney
+48674,Almaty,30,Cruise,Bicycle,Buenos Aires
+382995,Minsk,39,Luxury,Bicycle,Istanbul
+232702,Almaty,45,Cruise,Tram,Venice
+208980,Yerevan,44,Cultural,Tram,Kyoto
+352377,Astana,54,Cruise,Submarine,Buenos Aires
+145409,Minsk,54,Nature,Motorcycle,Venice
+270368,Yerevan,31,Camping,Tram,Venice
+466758,Astana,35,Nature,Submarine,Dubai
+175205,Almaty,36,Cruise,Submarine,Cape Town
+142055,Astana,61,Luxury,Tram,Istanbul
+56091,Minsk,27,Camping,Motorcycle,Istanbul
+96610,Yerevan,40,Nature,Tram,Venice
+274045,Minsk,36,Cultural,Motorcycle,Sydney
+91664,Astana,38,Nature,Submarine,Cape Town
+114513,Baku,49,Camping,Tram,Kyoto
+333420,Minsk,28,Cultural,Helicopter,Sydney
+255251,Baku,56,Cruise,Tram,Venice
+50908,Astana,28,Camping,Submarine,Buenos Aires
+433907,Yerevan,33,Camping,Helicopter,Sydney
+72555,Yerevan,32,Luxury,Helicopter,Dubai
+128444,Astana,27,Luxury,Tram,Buenos Aires
+431691,Astana,55,Cruise,Motorcycle,Buenos Aires
+460179,Yerevan,50,Cruise,Submarine,Istanbul
+468102,Yerevan,29,Nature,Motorcycle,Rome
+29390,Tashkent,35,Nature,Helicopter,Seoul
+89587,Yerevan,57,Cruise,Motorcycle,Rome
+398832,Astana,70,Camping,Tram,Kyoto
+471053,Tashkent,47,Camping,Helicopter,Istanbul
+416938,Tashkent,60,Cultural,Bicycle,Dubai
+491706,Tashkent,39,Camping,Tram,Kyoto
+385784,Baku,55,Adventure,Helicopter,Venice
+60514,Minsk,25,Cultural,Helicopter,Cape Town
+484432,Almaty,59,Cultural,Bicycle,Buenos Aires
+37269,Minsk,59,Camping,Tram,Buenos Aires
+64883,Baku,58,Cultural,Helicopter,Seoul
+82874,Baku,36,Luxury,Helicopter,Sydney
+437458,Minsk,67,Cultural,Bicycle,Kyoto
+184053,Tashkent,56,Cultural,Helicopter,Kyoto
+451714,Baku,34,Nature,Bicycle,Seoul
+146432,Almaty,68,Cultural,Submarine,Kyoto
+196108,Almaty,69,Camping,Submarine,Istanbul
+181312,Baku,31,Adventure,Submarine,Kyoto
+111529,Almaty,41,Luxury,Bicycle,Sydney
+113277,Almaty,39,Camping,Submarine,Rome
+457643,Baku,51,Cultural,Motorcycle,Buenos Aires
+318725,Baku,48,Adventure,Submarine,Venice
+37169,Almaty,45,Camping,Tram,Kyoto
+95683,Baku,37,Cultural,Motorcycle,Kyoto
+266845,Minsk,61,Cruise,Bicycle,Venice
+43329,Astana,55,Cruise,Helicopter,Buenos Aires
+285139,Baku,51,Camping,Tram,Seoul
+454327,Tashkent,49,Adventure,Bicycle,Rome
+138459,Tashkent,56,Adventure,Submarine,Kyoto
+387036,Baku,29,Cruise,Helicopter,Dubai
+478137,Yerevan,46,Cultural,Motorcycle,Kyoto
+306125,Yerevan,60,Cruise,Helicopter,Cape Town
+291113,Astana,59,Luxury,Tram,Cape Town
+239295,Yerevan,44,Nature,Helicopter,Sydney
+281657,Yerevan,58,Nature,Tram,Buenos Aires
+146030,Tashkent,37,Cultural,Motorcycle,Venice
+139703,Minsk,31,Nature,Submarine,Istanbul
+125108,Baku,48,Camping,Motorcycle,Kyoto
+303994,Minsk,46,Adventure,Helicopter,Sydney
+113767,Astana,58,Cultural,Bicycle,Buenos Aires
+29642,Baku,54,Nature,Submarine,Seoul
+155413,Minsk,42,Cultural,Bicycle,Venice
+473670,Minsk,56,Camping,Motorcycle,Istanbul
+134012,Almaty,37,Cruise,Tram,Seoul
+404898,Baku,49,Cultural,Helicopter,Rome
+229022,Tashkent,43,Luxury,Submarine,Istanbul
+159184,Astana,36,Cultural,Submarine,Cape Town
+220073,Yerevan,70,Cultural,Motorcycle,Seoul
+486149,Minsk,42,Luxury,Helicopter,Dubai
+177829,Almaty,30,Cruise,Motorcycle,Buenos Aires
+422474,Baku,49,Cruise,Submarine,Dubai
+56996,Minsk,60,Cruise,Helicopter,Seoul
+489447,Astana,44,Nature,Helicopter,Istanbul
+238383,Yerevan,32,Adventure,Tram,Rome
+452522,Minsk,30,Adventure,Motorcycle,Buenos Aires
+325149,Baku,25,Luxury,Submarine,Cape Town
+418357,Yerevan,45,Adventure,Submarine,Dubai
+134431,Minsk,68,Cruise,Helicopter,Cape Town
+44452,Almaty,53,Adventure,Tram,Dubai
+192500,Almaty,45,Cruise,Bicycle,Venice
+193306,Yerevan,65,Cultural,Submarine,Rome
+274798,Tashkent,25,Camping,Motorcycle,Dubai
+146788,Minsk,26,Cruise,Bicycle,Kyoto
+50018,Baku,33,Cultural,Submarine,Buenos Aires
+101410,Minsk,66,Camping,Submarine,Istanbul
+455048,Almaty,36,Nature,Submarine,Seoul
+353371,Minsk,69,Camping,Helicopter,Cape Town
+441580,Astana,67,Camping,Helicopter,Istanbul
+488461,Minsk,56,Nature,Motorcycle,Buenos Aires
+27815,Minsk,67,Nature,Motorcycle,Istanbul
+341763,Minsk,32,Camping,Bicycle,Buenos Aires
+198735,Baku,68,Nature,Bicycle,Kyoto
+445551,Yerevan,44,Adventure,Helicopter,Sydney
+396223,Almaty,26,Nature,Bicycle,Seoul
